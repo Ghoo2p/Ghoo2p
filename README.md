@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ghoo2p, an Technical Product Owner
+- 👋 Hi, I’m hoo_t, an Technical Product Owner
 - 👀 I’m interested in contributing to open-source technology, finance & biotech projects.
 - 🌱 I’m currently learning to immerse myself in the programming world, learn from experienced developers, and contribute to the community ...
 💞️ I want to collaborate on product development, AI and ML solutions, business process analysis, data analytics, project management, and more.
