@@ -1,4 +1,4 @@
-- 👋 Hi, I’m hoo_t, an Technical Product Owner
+- 👋 Hi, I’m hoo_t, an Technical Product professional
 - 👀 I’m interested in contributing to open-source technology, finance & biotech projects.
 - 🌱 I’m learning to immerse myself in the programming world, support & learn from experienced developers, and contribute to the community.
 - 🛄 I am open to collaborating on product development, AI and ML solutions, business process analysis, data analytics, project management, and more.
